@@ -64,14 +64,14 @@ export default function SportsWebsitesPage() {
       name: "Sky Sports", 
       nameAr: "سكاي سبورتس",
       url: "https://www.skysports.com", 
-      emblem: "/img/websites/skysports.JFIF" 
+      emblem: "/img/websites/skysports.jfif" 
     },
     { 
       id: 9, 
       name: "BBC Sport", 
       nameAr: "بي بي سي سبورت",
       url: "https://www.bbc.com/sport", 
-      emblem: "/img/websites/bbcsport.JPG" 
+      emblem: "/img/websites/bbcsport.jpg" 
     },
     { 
       id: 10, 
@@ -106,7 +106,7 @@ export default function SportsWebsitesPage() {
       name: "Sport Bild", 
       nameAr: "سبورت بيلد",
       url: "https://sportbild.bild.de", 
-      emblem: "/img/websites/sportbild.JPG" 
+      emblem: "/img/websites/sportbild.jpg" 
     },
     { 
       id: 15, 
@@ -120,7 +120,7 @@ export default function SportsWebsitesPage() {
       name: "FotMob", 
       nameAr: "فوت موب",
       url: "https://www.fotmob.com", 
-      emblem: "/img/websites/fotmob.JFIF" 
+      emblem: "/img/websites/fotmob.jfif" 
     },
     { 
       id: 17, 
@@ -148,7 +148,7 @@ export default function SportsWebsitesPage() {
       name: "The Athletic", 
       nameAr: "ذا أثليتك",
       url: "https://www.theathletic.com", 
-      emblem: "/img/websites/theathletic.JPG" 
+      emblem: "/img/websites/theathletic.jpg" 
     },
     { 
       id: 21, 
@@ -162,7 +162,7 @@ export default function SportsWebsitesPage() {
       name: "Live Score", 
       nameAr: "لايف سكور",
       url: "https://www.livescore.com", 
-      emblem: "/img/websites/live score.JFIF" 
+      emblem: "/img/websites/live score.jfif" 
     },
     { 
       id: 23, 
@@ -176,7 +176,7 @@ export default function SportsWebsitesPage() {
       name: "Bleacher Report", 
       nameAr: "بليتشر ريبورت",
       url: "https://bleacherreport.com", 
-      emblem: "/img/websites/bleacher.JPG" 
+      emblem: "/img/websites/bleacher.jpg" 
     }
   ];
 

@@ -7,13 +7,13 @@ const Leagues = [
     id: 1, 
     name: "Premier League", 
     href: "premier-league", 
-    emblem: "/img/leagues/Premier.PNG" 
+    emblem: "/img/leagues/Premier.png" 
   },
   { 
     id: 2, 
     name: "La Liga", 
     href: "la-liga", 
-    emblem: "/img/leagues/الدوري الاسباني.PNG" 
+    emblem: "/img/leagues/الدوري الاسباني.png" 
   },
   { 
     id: 3, 
@@ -46,13 +46,13 @@ const Leagues = [
     id: 7, 
     name: "Champions League", 
     href: "champions", 
-    emblem: "/img/leagues/Champions League.PNG" 
+    emblem: "/img/leagues/Champions League.png" 
   },
   { 
     id: 8, 
     name: "European League", 
     href: "europeanchampionship", 
-    emblem: "/img/leagues/شعار الدوري الاوروبي.PNG" 
+    emblem: "/img/leagues/شعار الدوري الاوروبي.png" 
   },
   { 
     id: 9, 
@@ -72,7 +72,7 @@ const Leagues = [
     id: 11, 
     name: "Egyptian Premier League", 
     href: "egypt-league", 
-    emblem: "/img/leagues/Egyptian_Premier_League_logo_2023.PNG" 
+    emblem: "/img/leagues/Egyptian_Premier_League_logo_2023.png" 
   },
   { 
     id: 12, 
@@ -94,19 +94,19 @@ const Leagues = [
     id: 14, 
     name: "CAF Champions League", 
     href: "caf-champions-league", 
-    emblem: "/img/leagues/دوري ابطال افريقيا.PNG" 
+    emblem: "/img/leagues/دوري ابطال افريقيا.png" 
   },
   { 
     id: 15, 
     name: "CAF Confederation Cup", 
     href: "caf-cc", 
-    emblem: "/img/leagues/CAF Confederation Cup.PNG" 
+    emblem: "/img/leagues/CAF Confederation Cup.png" 
   },
   { 
     id: 16, 
     name: "AFC Champions League", 
     href: "afc-champions-league", 
-    emblem: "/img/leagues/شعار_دوري_أبطال_آسيا_2021.svg.PNG" 
+    emblem: "/img/leagues/شعار_دوري_أبطال_آسيا_2021.svg.png" 
   },
 
   // الكؤوس — إنجلترا
@@ -114,13 +114,13 @@ const Leagues = [
     id: 17, 
     name: "FA Cup", 
     href: "fa-cup", 
-    emblem: "/img/leagues/كاس انجلترا.PNG " 
+    emblem: "/img/leagues/كاس انجلترا.png " 
   },
   { 
     id: 18, 
     name: "EFL Cup (Carabao Cup)", 
     href: "efl-cup", 
-    emblem: "/img/leagues/كاس كاراباو.PNG" 
+    emblem: "/img/leagues/كاس كاراباو.png" 
   },
 
   // الكؤوس — إسبانيا
@@ -128,7 +128,7 @@ const Leagues = [
     id: 19, 
     name: "Copa del Rey", 
     href: "copa-del-rey", 
-    emblem: "/img/leagues/Copa_Del_Rey_Official_Logo.PNG" 
+    emblem: "/img/leagues/Copa_Del_Rey_Official_Logo.png" 
   },
   { 
     id: 20, 
@@ -150,7 +150,7 @@ const Leagues = [
     id: 22, 
     name: "Coppa Italia", 
     href: "coppa-italia", 
-    emblem: "/img/leagues/كاس ايطاليا.PNG" 
+    emblem: "/img/leagues/كاس ايطاليا.png" 
   },
 
   // الكؤوس — فرنسا
@@ -166,13 +166,13 @@ const Leagues = [
     id: 24, 
     name: "Egypt Cup", 
     href: "egypt-cup", 
-    emblem: "/img/leagues/Egyptian_Cup_(football).PNG" 
+    emblem: "/img/leagues/Egyptian_Cup_(football).png" 
   },
   { 
     id: 25, 
     name: "King's Cup (KSA)", 
     href: "saudi-kings-cup", 
-    emblem: "/img/leagues/شعار_كأس_خادم_الحرمين_الشريفين_2024.PNG" 
+    emblem: "/img/leagues/شعار_كأس_خادم_الحرمين_الشريفين_2024.png" 
   },
 
   { 
@@ -186,6 +186,30 @@ const Leagues = [
     name: "FIFA World Cup 2026", 
     href: "worldcup", 
     emblem: "/img/leagues/كاس العالم 2026.jfif" 
+  },
+  { 
+    id: 28, 
+    name: "UEFA Euro", 
+    href: "uefaeuro", 
+    emblem: "/img/leagues/uefa.jpg" 
+  },
+  { 
+    id: 29, 
+    name: "Africa Cup of Nations", 
+    href: "africacup", 
+    emblem: "/img/leagues/2025_Africa_Cup_of_Nations_logo.svg.png" 
+  },
+  { 
+    id: 30, 
+    name: "Asia Cup", 
+    href: "asiacup", 
+    emblem: "/img/leagues/afc_asia.png" 
+  },
+  { 
+    id: 31, 
+    name: "Europa Nations League", 
+    href: "europanationsleague", 
+    emblem: "/img/leagues/nationleague.jpg" 
   },
 
   //لو حبيت اضيف حاجة تانية
