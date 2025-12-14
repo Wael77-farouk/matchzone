@@ -2,7 +2,7 @@ import { filterLeague } from "@/api";
 import LeagueTable from "@/components/LeagueTable";
 
 const LaLiga = async () => {
-  const matches = await filterLeague("La Liga");
+  const matches = await filterLeague("Primera Division");
 
   if (!matches || matches.length === 0) {
     return (
