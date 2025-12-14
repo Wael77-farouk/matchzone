@@ -67,7 +67,7 @@ export default function LeaguesPage() {
       name: "European League", 
       nameAr: "الدوري الأوروبي",
       href: "europeanchampionship", 
-      emblem: "/img/leagues/شعار الدوري الاوروبي.png 
+      emblem: "/img/leagues/شعار الدوري الاوروبي.png" 
     },
     { 
       id: 9, 
