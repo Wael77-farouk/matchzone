@@ -16,14 +16,14 @@ export default function LeaguesPage() {
       name: "Premier League", 
       nameAr: "الدوري الإنجليزي",
       href: "premier-league", 
-      emblem: "/img/leagues/Premier.PNG" 
+      emblem: "/img/leagues/Premier.png" 
     },
     { 
       id: 2, 
       name: "La Liga", 
       nameAr: "الدوري الإسباني",
       href: "la-liga", 
-      emblem: "/img/leagues/الدوري الاسباني.PNG" 
+      emblem: "/img/leagues/الدوري الاسباني.png" 
     },
     { 
       id: 3, 
@@ -60,14 +60,14 @@ export default function LeaguesPage() {
       name: "Champions League", 
       nameAr: "دوري أبطال أوروبا",
       href: "champions", 
-      emblem: "/img/leagues/Champions League.PNG" 
+      emblem: "/img/leagues/Champions League.png" 
     },
     { 
       id: 8, 
       name: "European League", 
       nameAr: "الدوري الأوروبي",
       href: "europeanchampionship", 
-      emblem: "/img/leagues/شعار الدوري الاوروبي.PNG" 
+      emblem: "/img/leagues/شعار الدوري الاوروبي.png 
     },
     { 
       id: 9, 
@@ -97,7 +97,7 @@ export default function LeaguesPage() {
       name: "Egyptian Premier League", 
       nameAr: "الدوري المصري",
       href: "egypt-league", 
-      emblem: "/img/leagues/Egyptian_Premier_League_logo_2023.PNG" 
+      emblem: "/img/leagues/Egyptian_Premier_League_logo_2023.png" 
     },
     { 
       id: 13, 
@@ -122,21 +122,21 @@ export default function LeaguesPage() {
       name: "CAF Champions League", 
       nameAr: "دوري أبطال أفريقيا",
       href: "caf-champions-league", 
-      emblem: "/img/leagues/دوري ابطال افريقيا.PNG" 
+      emblem: "/img/leagues/دوري ابطال افريقيا.png" 
     },
     { 
       id: 16, 
       name: "CAF Confederation Cup", 
       nameAr: "كأس الكونفدرالية",
       href: "caf-cc", 
-      emblem: "/img/leagues/CAF Confederation Cup.PNG" 
+      emblem: "/img/leagues/CAF Confederation Cup.png" 
     },
     { 
       id: 17, 
       name: "AFC Champions League", 
       nameAr: "دوري أبطال آسيا",
       href: "afc-champions-league", 
-      emblem: "/img/leagues/شعار_دوري_أبطال_آسيا_2021.svg.PNG" 
+      emblem: "/img/leagues/شعار_دوري_أبطال_آسيا_2021.svg.png" 
     },
 
     // الكؤوس — إنجلترا
@@ -145,14 +145,14 @@ export default function LeaguesPage() {
       name: "FA Cup", 
       nameAr: "كأس إنجلترا",
       href: "fa-cup", 
-      emblem: "/img/leagues/كاس انجلترا.PNG " 
+      emblem: "/img/leagues/كاس انجلترا.png " 
     },
     { 
       id: 19, 
       name: "EFL Cup (Carabao Cup)", 
       nameAr: "كأس كاراباو",
       href: "efl-cup", 
-      emblem: "/img/leagues/كاس كاراباو.PNG" 
+      emblem: "/img/leagues/كاس كاراباو.png" 
     },
 
     // الكؤوس — إسبانيا
@@ -161,7 +161,7 @@ export default function LeaguesPage() {
       name: "Copa del Rey", 
       nameAr: "كأس ملك إسبانيا",
       href: "copa-del-rey", 
-      emblem: "/img/leagues/Copa_Del_Rey_Official_Logo.PNG" 
+      emblem: "/img/leagues/Copa_Del_Rey_Official_Logo.png" 
     },
     { 
       id: 21, 
@@ -186,7 +186,7 @@ export default function LeaguesPage() {
       name: "Coppa Italia", 
       nameAr: "كأس إيطاليا",
       href: "coppa-italia", 
-      emblem: "/img/leagues/كاس ايطاليا.PNG" 
+      emblem: "/img/leagues/كاس ايطاليا.png" 
     },
 
     // الكؤوس — فرنسا
@@ -204,14 +204,14 @@ export default function LeaguesPage() {
       name: "Egypt Cup", 
       nameAr: "كأس مصر",
       href: "egypt-cup", 
-      emblem: "/img/leagues/Egyptian_Cup_(football).PNG" 
+      emblem: "/img/leagues/Egyptian_Cup_(football).png" 
     },
     { 
       id: 26, 
       name: "King's Cup (KSA)", 
       nameAr: "كأس الملك",
       href: "saudi-kings-cup", 
-      emblem: "/img/leagues/شعار_كأس_خادم_الحرمين_الشريفين_2024.PNG" 
+      emblem: "/img/leagues/شعار_كأس_خادم_الحرمين_الشريفين_2024.png" 
     },
 
     { 
@@ -234,7 +234,7 @@ export default function LeaguesPage() {
       name: "UEFA Euro", 
       nameAr: "بطولة أمم أوروبا (يورو)", 
       href: "uefa-euro", 
-      emblem: "/img/leagues/uefa.JPG" 
+      emblem: "/img/leagues/uefa.jpg" 
     },
     { 
       id: 30, 
